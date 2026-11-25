@@ -20,10 +20,10 @@ Estou aprendendo mandarim por meio do curso oferecido no IMPA Tech
 - **Ferramentas:** Git, GitHub, Excel e Vercel
 
 ## 📚 Estudando agora
-)
+
+- Programação Orientada a Objetos (POO)
 - Python
 - JavaScript
-- Programação Orientada a Objetos (POO)
 - Mandarim
 
 ## 🚀 Projetos
@@ -36,9 +36,8 @@ Estou aprendendo mandarim por meio do curso oferecido no IMPA Tech
 
 ## 📱 Contato
 
-<a href="mailto:jpedroferreira0701@gmail.com"><img src="https://cdn.simpleicons.org/gmail" height="40" alt="E-mail" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/joaopedroferreira-/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" /></a>
+[![E-mail](https://img.shields.io/badge/E--mail-1d78dc?style=for-the-badge)](mailto:jpedroferreira0701@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1d78dc?style=for-the-badge)](https://www.linkedin.com/in/joaopedroferreira-/)
 
 ## 📊 Atividades
 
