@@ -2,13 +2,13 @@
 
 ## 👨🏻‍💻 Sobre mim
 
-Curso Engenharia de Computação no Ibmec, no terceiro período, e integro o setor de Inovações da Ibmec Jr, onde aplico o que aprendo e desenvolvo soluções digitais todos os dias. Gosto de construir sites, sistemas web e automações com IA, da concepção à entrega.
+Apaixonado por tecnologia, estou no 3º período de Engenharia de Computação no Ibmec Barra da Tijuca e atuo como desenvolvedor no setor de Inovações da Ibmec Jr Soluções. Desenvolvo sites, aplicações front-end e back-end, além de automações com IA focadas em eficiência, acompanhando cada projeto da ideia à entrega. Quando não estou programando, pratico surfe, skate e futebol, atividades que reforçam meu foco e trabalho em equipe. Atualmente, estou aberto a oportunidades de estágio para somar em times de desenvolvimento e evoluir na prática.
 
 📍 Rio de Janeiro, RJ
 
 ## 🤔 Curiosidade
 
-Faço curso de chinês no Impa Tech.
+Estou aprendendo mandarim por meio do curso oferecido no IMPA Tech
 
 ## 🛠️ Competências
 
@@ -24,7 +24,7 @@ Faço curso de chinês no Impa Tech.
 - Programação Orientada a Objetos (POO)
 - Python
 - JavaScript
-- Chinês (curso no Impa Tech)
+- Mandarim
 
 ## 🚀 Projetos
 
@@ -40,7 +40,7 @@ Faço curso de chinês no Impa Tech.
 [![E-mail](https://img.shields.io/badge/E--mail-jpedroferreira0701@gmail.com-1d78dc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=04204a)](mailto:jpedroferreira0701@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jpedroferreira07-1d78dc?style=for-the-badge&logo=github&logoColor=white&labelColor=04204a)](https://github.com/jpedroferreira07)
 
-## 📊 Atividade no GitHub
+## 📊 Atividades
 
 <p align="center">
   <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=jpedroferreira07&show_icons=true&hide_border=true&bg_color=04204a&title_color=3ea4ff&icon_color=3ea4ff&text_color=c9dcf0&count_private=true&include_all_commits=true" />
